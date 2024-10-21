@@ -2,7 +2,6 @@
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
---platform=linux/amd64 xiaoyaliu/alist
 --platform=linux/amd64 jc21/nginx-proxy-manager:latest
 --platform=linux/amd64 neilpang/letsproxy:latest
 --platform=linux/amd64 kukudemajia/qywx_api:latest
@@ -10,3 +9,4 @@ xhofe/alist:latest
 --platform=linux/amd64 jeessy/ddns-go:latest
 --platform=linux/amd64 whyour/qinglong:latest
 --platform=linux/amd64 vaultwarden/server:latest
+--platform=linux/amd64 dushixiang/next-terminal:latest
