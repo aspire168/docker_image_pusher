@@ -5,3 +5,8 @@ xhofe/alist:latest
 --platform=linux/amd64 xiaoyaliu/alist
 --platform=linux/amd64 jc21/nginx-proxy-manager:latest
 --platform=linux/amd64 neilpang/letsproxy:latest
+--platform=linux/amd64 kukudemajia/qywx_api:latest
+--platform=linux/amd64 a76yyyy/qiandao:latest
+--platform=linux/amd64 jeessy/ddns-go:latest
+--platform=linux/amd64 whyour/qinglong:latest
+--platform=linux/amd64 vaultwarden/server:latest
